@@ -1,4 +1,6 @@
 # USB_Helper
+##A USB switch that enables you to switch the 4 lines (data and power) individually ON or OFF
+----
 A very useful device not only for makers.  
 The four lines 5V,GND,D+,D- can be individually switched ON or OFF (connected or disconnected).  
 Look at the pictures, it's pretty self-explanatory...  
