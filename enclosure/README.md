@@ -1,4 +1,4 @@
 This enclosure has been designed and manufactured by  
-Garrett Bartley [wgb] --> https://www.tindie.com/stores/wgb/  
+Garrett Bartley [Wgb.Me] --> https://www.tindie.com/stores/wgbartley 
 
 ![USB Helper Enclosure](/photos/itsf3o6.jpg)
