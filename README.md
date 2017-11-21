@@ -1,5 +1,5 @@
 # USB_Helper
-## A USB switch that enables you to switch the 4 lines (data and power) individually ON or OFF
+### A USB switch that enables you to switch the 4 lines (data and power) individually ON or OFF
 ----
 A very useful device not only for makers.  
 The four lines 5V,GND,D+,D- can be individually switched ON or OFF (connected or disconnected).  
@@ -34,7 +34,8 @@ Sometimes you want to communicate with a device but without connecting the 5V fr
 * dimensions bare PCB only: 30,1mm x 16,6mm x 1,7mm (length x width x height)  
   
 ----
-
+get one -> [https://www.tindie.com/stores/Dirk/](https://www.tindie.com/stores/Dirk/)
+----
 
 ![USB Helper](/photos/IMG_9744.JPG)
 ![USB Helper Enclosure](/photos/USB_enclosure_V2_Exo_Square_1.png)
