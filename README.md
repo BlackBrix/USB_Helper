@@ -37,5 +37,5 @@ Sometimes you want to communicate with a device but without connecting the 5V fr
 
 
 ![USB Helper](/photos/IMG_9744.JPG)
-![USB Helper Enclosure](/photos/itsf3o6.jpg)
+![USB Helper Enclosure](/photos/USB_enclosure_V2_Exo_Square_1.png)
 
