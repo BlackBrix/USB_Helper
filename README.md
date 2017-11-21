@@ -34,7 +34,9 @@ Sometimes you want to communicate with a device but without connecting the 5V fr
 * dimensions bare PCB only: 30,1mm x 16,6mm x 1,7mm (length x width x height)  
   
 ----
+
 get one -> [https://www.tindie.com/stores/Dirk/](https://www.tindie.com/stores/Dirk/)
+
 ----
 
 ![USB Helper](/photos/IMG_9744.JPG)
