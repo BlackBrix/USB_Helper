@@ -6,16 +6,14 @@ The four lines 5V,GND,D+,D- can be individually switched ON or OFF (connected or
 Look at the pictures, it's pretty self-explanatory...  
 
 
-###Usecase 1:
-
+###Usecase 1: 
 Charging (or power supplying) a device (e.g. your mobile / mp3-player / camera) with an "unknown" PC or your companies PC.  
 You don't know if this PC "scans" all your private and confidential data,  
 you don't know if this PC is "infected" with some virus or malware !  
 **Simply switch off the 2 data-lines (D+ and D-) on the USB-Helper and you are protected.**  
   
   
-###Usecase 2:
-
+###Usecase 2: 
 Sometimes you want to communicate with a device but without connecting the 5V from the PC.  
 (quite often the 5V-supply from a PC is very noisy, with voltage spikes or some humming occurs...)  
 **examples:**  
